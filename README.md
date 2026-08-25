@@ -126,9 +126,6 @@ $ ./sem.o
 ![Output 1](img/output1.png)
 
 
-![Output 1](img/output1.png)
-
-
 $ ipcs
 
 ![Output 2](img/output2.png)
