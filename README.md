@@ -1,3 +1,4 @@
+
 # Linux-IPC-Semaphores
 Ex05-Linux IPC-Semaphores
 
@@ -122,6 +123,8 @@ int main() {
 ## OUTPUT
 $ ./sem.o 
 
+![Output 1](img/output1.png)
+
 
 ![Output 1](img/output1.png)
 
@@ -129,6 +132,7 @@ $ ./sem.o
 $ ipcs
 
 ![Output 2](img/output2.png)
+
 
 # RESULT:
 The program is executed successfully.
