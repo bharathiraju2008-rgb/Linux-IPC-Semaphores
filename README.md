@@ -121,12 +121,14 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
-![Output 1](output1.png)
+
+
+![Output 1](img/output1.png)
 
 
 $ ipcs
 
-![Output 2](output2.png)
+![Output 2](img/output2.png)
 
 # RESULT:
 The program is executed successfully.
