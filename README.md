@@ -121,14 +121,12 @@ int main() {
 
 ## OUTPUT
 $ ./sem.o 
-mv"Screenshot at 2026-08-25 04-53-43.png" ouput1.png
+![Output 1](output1.png)
 
 
 $ ipcs
-mv "Screenshot at 2026-08-25 04-54-22.png" output2.png
 
-
-
+![Output 2](output2.png)
 
 # RESULT:
 The program is executed successfully.
